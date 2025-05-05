@@ -1,4 +1,4 @@
-# Test-Time Adaptation for Enhancing Brain Tumor Segmentation
+# TTA-3D: Test-Time Adaptation for Enhancing Brain Tumor Segmentation
 > Heng Gao
 
 ## Usage
