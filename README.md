@@ -3,8 +3,15 @@
 
 ## Usage
 
+### Installation
 ```bash
 pip install -r requirements.txt
+```
+
+### Data preparation
+
+```bash
+wget 
 ```
 
 ### Training
