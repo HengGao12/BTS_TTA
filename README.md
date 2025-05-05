@@ -11,7 +11,8 @@ pip install -r requirements.txt
 ### Data preparation
 
 ```bash
-wget 
+cd data
+gdown https://drive.google.com/uc?id=1A2IU8Sgea1h3fYLpYtFb2v7NYdMjvEhU 
 ```
 
 ### Training
