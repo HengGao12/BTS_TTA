@@ -19,4 +19,4 @@ One can directly train a brain tumor segmentation model using codes given in bra
 python tta_main.py -method tta -step 1
 ```
 ## Acknowledgment
-Our code is developed based on [MONAI](https://github.com/Project-MONAI/) and [Tent](https://github.com/DequanWang/tent/)
+Our code is developed based on [MONAI](https://github.com/Project-MONAI/) and [Tent](https://github.com/DequanWang/tent/).
