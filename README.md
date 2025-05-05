@@ -10,10 +10,12 @@ pip install -r requirements.txt
 
 ### Data preparation
 
+Downloading data
 ```bash
 cd data
 gdown https://drive.google.com/uc?id=1A2IU8Sgea1h3fYLpYtFb2v7NYdMjvEhU 
 ```
+Note, one can also download data using the link provided in `./data`.
 
 ### Training
 
