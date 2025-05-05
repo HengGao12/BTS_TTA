@@ -1,0 +1,1 @@
+Mean Dice (MD) without TTA: 0.7817

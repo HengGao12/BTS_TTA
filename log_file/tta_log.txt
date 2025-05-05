@@ -1,0 +1,1 @@
+Mean Dice (MD) after TTA: 0.7790
