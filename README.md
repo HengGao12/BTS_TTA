@@ -6,6 +6,10 @@ All our experiments are conducted on one NVIDIA V100 GPU.
 ## Usage
 
 ### Installation
+
+-python==3.8
+-torch=1.11.0+cu113
+
 ```bash
 pip install -r requirements.txt
 ```
