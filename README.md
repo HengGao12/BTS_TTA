@@ -1,6 +1,7 @@
 # TTA-3D: Test-Time Adaptation for Brain Tumor Segmentation
-> Heng Gao
-
+> Heng Gao  
+> Fudan University  
+ 
 All our experiments are conducted on one NVIDIA V100 GPU.
 
 ## Usage
