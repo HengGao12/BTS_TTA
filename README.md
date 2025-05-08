@@ -26,12 +26,14 @@ Note, one can also download data using the link provided in `./data`.
 
 ### Training
 
-One can directly train a brain tumor segmentation model using codes given in `brats_segmentation_3d.ipynb`. The pre-trained model is saved in './model_output'.
+One can directly train a brain tumor segmentation model using codes given in `brats_segmentation_3d.ipynb`. The pre-trained model is saved in `./model_output`.
 
 ### Test-time Adaptation using Tent
 
 ```python
 python tta_main.py -method tta -step 1
 ```
+The TTA results are saved in `./log_file`.
+
 ## Acknowledgments
 Our code is developed based on [MONAI](https://github.com/Project-MONAI/) and [Tent](https://github.com/DequanWang/tent/).
