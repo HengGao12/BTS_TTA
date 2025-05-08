@@ -26,7 +26,7 @@ Note, one can also download data using the link provided in `./data`.
 
 ### Training
 
-One can directly train a brain tumor segmentation model using codes given in `brats_segmentation_3d.ipynb`.
+One can directly train a brain tumor segmentation model using codes given in `brats_segmentation_3d.ipynb`. The pre-trained model is saved in './model_output'.
 
 ### Test-time Adaptation using Tent
 
